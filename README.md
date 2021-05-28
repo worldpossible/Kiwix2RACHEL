@@ -1,6 +1,10 @@
 # Kiwix2RACHEL
 A Windows utility to build RACHEL modules for use with Kiwix 3.1.2. 
 
+## Interface
+
+![Kiwix2RACHEL](https://user-images.githubusercontent.com/47008209/120028572-b3b08380-bfa9-11eb-9ba2-aba2983e0292.png)
+
 ## Instructions
 
 1. Set a title for your module in the "Module Title" field. This will be the clickable link within RACHEL to get to the main page
@@ -20,7 +24,4 @@ Your module is now built. To test your module in RACHEL do the following.
 3. Make sure the format is .zip, then save the zip with the same name as your module folder
 4. Upload the zip through the new settings.php module upload utility
 
-
-
-![Kiwix2RACHEL](https://user-images.githubusercontent.com/47008209/120028572-b3b08380-bfa9-11eb-9ba2-aba2983e0292.png)
 
