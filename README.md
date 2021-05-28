@@ -1,8 +1,6 @@
 # Kiwix2RACHEL
 A Windows utility to build RACHEL modules for use with Kiwix 3.1.2. 
 
-## Interface
-
 ![Kiwix2RACHEL](https://user-images.githubusercontent.com/47008209/120028572-b3b08380-bfa9-11eb-9ba2-aba2983e0292.png)
 
 ## Instructions
