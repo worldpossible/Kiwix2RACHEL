@@ -12,14 +12,20 @@ A Windows utility to build RACHEL modules for use with Kiwix 3.1.2.
 5. Click the + button to select a zim file. If you don't yet have a zim file, create an empty text file and set it's extension as .zim
 6. Click the next + button to add a .png logo file.
 7. Enter a module description for the main paragraph as the module
-8. For a basic preview of your module ( not 100% accurate layout yet ), click the preview button 
+8. For a basic preview of your module ( not a 100% accurate layout yet ), click the preview button 
 9. Click save and select a location to save your module. When prompted you can choose to copy the zim file to the new module directory.
 
-Your module is now built. To test your module in RACHEL do the following.
+Your module is now built. 
+
+To test your module on a RACHEL-Plus at version 3.1.2 or higher, do the following.
 
 1. Install 7zip from https://www.7-zip.org/download.html
 2. Right click the new module folder and go to 7-Zip-> Add to Archive. 
 3. Make sure the format is .zip, then save the zip with the same name as your module folder
 4. Upload the zip through the new settings.php module upload utility
+
+For RACHEL-Plus devices at 3.1.1 or lower, you will need to manually transfer the module using WinSCP
+
+
 
 
